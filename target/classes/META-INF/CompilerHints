@@ -1,0 +1,14 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,io/github/robertbachmann/scryptbenchmark/MyBenchmark.testMethod
+inline,io/github/robertbachmann/scryptbenchmark/MyBenchmark.testScryptBouncyCastle
+inline,io/github/robertbachmann/scryptbenchmark/MyBenchmark.testScryptBouncyCastle1
+inline,io/github/robertbachmann/scryptbenchmark/MyBenchmark.testScryptBouncyCastle2
+inline,io/github/robertbachmann/scryptbenchmark/MyBenchmark.testScryptBouncyCastle3
+inline,io/github/robertbachmann/scryptbenchmark/MyBenchmark.testScryptBouncyCastle4
+inline,io/github/robertbachmann/scryptbenchmark/MyBenchmark.testScryptBouncyCastle5
+inline,io/github/robertbachmann/scryptbenchmark/MyBenchmark.testWgScryptJava
+inline,io/github/robertbachmann/scryptbenchmark/MyBenchmark.testWgScryptNative
